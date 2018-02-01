@@ -1,5 +1,4 @@
-
-# Program2
+# Project Instruction
 
 This assignment asks you to write a simple game akin to old text adventure games like Adventure:
 http://en.wikipedia.org/wiki/Colossal_Cave_Adventure
